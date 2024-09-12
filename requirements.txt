@@ -1,6 +1,6 @@
-allennlp==0.8.5
-torch==1.5.1
-transformers==3.0.2
+allennlp==1.0.0  # or try 1.1.0 if 1.0.0 has issues
+torch==1.8.0    # or a compatible version from the list
+transformers==3.0.2  # Keep this version or update if necessary
 jsonlines==2.0.0
 gdown
 overrides==3.1.0
